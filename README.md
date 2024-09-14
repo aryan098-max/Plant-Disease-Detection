@@ -6,7 +6,7 @@ The system is designed to identify diseases in various plants through an end-to-
 The dataset is taken from kaggle - PlantVillage data set 
 
 # About the Model
-## Model Architecture
+## CNN Architecture
 ![model](https://user-images.githubusercontent.com/66490787/219868725-9701133d-2f97-4fac-8f8b-c6108811dbdf.jpg)
 
 
