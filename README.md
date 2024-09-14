@@ -1,12 +1,10 @@
 # Plant Disease Classfication
 
-An end to end system which can identiy disease in a different plants. It takes input in the form of image(image of a plant leaf) and then classifies the leaf with different disease it may be infected with. One can also use camera of respective device in which the app in running, to take the picture of a potato leaf in real time and classify the plant. There are altogether 15 classes of 3 plants(potato, tomato and peppel_bell) which can be predicted using this classifer. In addition to the classification the system also determines its confidence on each prediction.
+The system is designed to identify diseases in various plants through an end-to-end process. It accepts images of plant leaves as input, either uploaded or captured in real-time using the device's camera. The system then classifies the leaf based on potential diseases it may have. It can identify 15 different classes across three types of plants: potato, tomato, and bell pepper. Additionally, the system provides a confidence score for each prediction, indicating the likelihood of each diagnosis.
 
 # About the Model
 ## Model Architecture
 ![model](https://user-images.githubusercontent.com/66490787/219868725-9701133d-2f97-4fac-8f8b-c6108811dbdf.jpg)
-
-
 
 
 
@@ -65,3 +63,5 @@ Start the server
 ## Support
 
 For support, email aryangupta4279@gmail.com or join our Slack channel.
+
+
