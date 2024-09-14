@@ -54,11 +54,6 @@ Start the server
 - [Aryan Gupta](https://www.linkedin.com/in/aryan-gupta02/)
 
 
-## Deployment
-[Classifier](https://sandy252-potato-disease-classifier-main-lpuiqn.streamlit.app/)
-
-
-
 
 
 ## Lessons Learned
