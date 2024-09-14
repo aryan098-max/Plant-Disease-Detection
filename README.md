@@ -49,7 +49,7 @@ Start the server
 
 ## Authors
 
-- [Sandeep Kashyap](https://www.linkedin.com/in/sandeep-kashyap-aa1545170/)
+- [Aryan Gupta](https://www.linkedin.com/in/aryan-gupta02/)
 
 
 ## Deployment
