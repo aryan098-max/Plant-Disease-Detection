@@ -23,7 +23,7 @@ An end to end system which can identiy disease in a different plants. It takes i
 Clone the project
 
 ```bash
-  git clone https://github.com/sandy252/Potato_Disease_Classifier.git
+  https://github.com/aryan098-max/Plant_Disease_Detection.git
 ```
 
 Go to the project directory
@@ -43,8 +43,6 @@ Start the server
 ```bash
   streamlit run main.py
 ```
-
-
 
 
 ## Authors
@@ -67,4 +65,4 @@ Start the server
 
 ## Support
 
-For support, email kashyapsandeep252@gmail.com or join our Slack channel.
+For support, email aryangupta4279@gmail.com or join our Slack channel.
