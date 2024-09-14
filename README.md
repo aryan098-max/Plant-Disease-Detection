@@ -62,6 +62,6 @@ Start the server
 
 ## Support
 
-For support, email aryangupta4279@gmail.com or join our Slack channel.
+For support, email aryangupta4279@gmail.com
 
 
