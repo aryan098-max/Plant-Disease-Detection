@@ -12,11 +12,13 @@ An end to end system which can identiy disease in a different plants. It takes i
 
 ## ScreenShots
 ### Home 
-![Screenshot (63)]![upload](https://github.com/user-attachments/assets/fb7cbaa0-cb69-4d6e-ad2f-60910de41d0f)
+![home](https://github.com/user-attachments/assets/b1134920-806d-4fa0-9ffc-ad41354f3c87)
+
+![upload](https://github.com/user-attachments/assets/fb7cbaa0-cb69-4d6e-ad2f-60910de41d0f)
 ![camera](https://github.com/user-attachments/assets/ed89f002-7ae3-4b0b-8d03-62d9d6846ab3)
 
 ### predictor
-![Screenshot (64)]![predicted](https://github.com/user-attachments/assets/100dde2d-c782-4652-93ec-4c0d68de8cb5)
+![predicted](https://github.com/user-attachments/assets/100dde2d-c782-4652-93ec-4c0d68de8cb5)
 
 
 
