@@ -67,6 +67,9 @@ Start the server
 - Integrating API's to a system.
 - Creating and Deploying web apps.
 
+## Documentation
+[Capstone Project Report.docx](https://github.com/user-attachments/files/17004271/Capstone.Project.Report.docx)
+
 ## Support
 
 For support, email aryangupta4279@gmail.com
