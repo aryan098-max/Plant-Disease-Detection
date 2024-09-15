@@ -3,7 +3,7 @@
 The system is designed to identify diseases in various plants through an end-to-end process. It accepts images of plant leaves as input, either uploaded or captured in real-time using the device's camera. The system then classifies the leaf based on potential diseases it may have. It can identify 15 different classes across three types of plants: potato, tomato, and bell pepper. Additionally, the system provides a confidence score for each prediction, indicating the likelihood of each diagnosis.
 
 # Dataset 
-The dataset is taken from kaggle - PlantVillage data set 
+The dataset is taken from kaggle containing 20,638 images - PlantVillage data set 
 ![dataset](https://github.com/user-attachments/assets/74713f94-1b1d-4fd6-8b80-30b34b3d8ef1)
 
 
@@ -18,6 +18,7 @@ The dataset is taken from kaggle - PlantVillage data set
 ![About](https://github.com/user-attachments/assets/0a096caa-2bae-49c1-9c1e-9995ccb143b1)
 
 
+## Upload - User can upload from the dataset or take a live picture of the leaf
 ![upload](https://github.com/user-attachments/assets/fb7cbaa0-cb69-4d6e-ad2f-60910de41d0f)
 ![camera](https://github.com/user-attachments/assets/ed89f002-7ae3-4b0b-8d03-62d9d6846ab3)
 
