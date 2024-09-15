@@ -18,7 +18,7 @@ The dataset is taken from kaggle containing 20,638 images - PlantVillage data se
 ![About](https://github.com/user-attachments/assets/0a096caa-2bae-49c1-9c1e-9995ccb143b1)
 
 
-## Upload
+### Upload
 User can upload from the dataset or take a live picture of the leaf
 ![upload](https://github.com/user-attachments/assets/fb7cbaa0-cb69-4d6e-ad2f-60910de41d0f)
 ![camera](https://github.com/user-attachments/assets/ed89f002-7ae3-4b0b-8d03-62d9d6846ab3)
