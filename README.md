@@ -4,6 +4,8 @@ The system is designed to identify diseases in various plants through an end-to-
 
 # Dataset 
 The dataset is taken from kaggle - PlantVillage data set 
+![dataset](https://github.com/user-attachments/assets/74713f94-1b1d-4fd6-8b80-30b34b3d8ef1)
+
 
 # About the Model
 ## CNN Architecture
@@ -12,15 +14,15 @@ The dataset is taken from kaggle - PlantVillage data set
 
 
 ## ScreenShots
-### Home 
-![home](https://github.com/user-attachments/assets/b1134920-806d-4fa0-9ffc-ad41354f3c87)
+### About 
+![About](https://github.com/user-attachments/assets/0a096caa-2bae-49c1-9c1e-9995ccb143b1)
+
 
 ![upload](https://github.com/user-attachments/assets/fb7cbaa0-cb69-4d6e-ad2f-60910de41d0f)
 ![camera](https://github.com/user-attachments/assets/ed89f002-7ae3-4b0b-8d03-62d9d6846ab3)
 
 ### predictor
-![predicted](https://github.com/user-attachments/assets/100dde2d-c782-4652-93ec-4c0d68de8cb5)
-
+![prediction](https://github.com/user-attachments/assets/5d4b3c7d-d956-4f27-9fe5-5026f12859a6)
 
 
 ## Run Locally
